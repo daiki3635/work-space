@@ -9,6 +9,6 @@ class BattleGame{
 		init();
 	}
 	public void init(){ //初期化
-		
+		 
 	}
 }
