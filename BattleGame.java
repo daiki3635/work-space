@@ -1,13 +1,13 @@
 import java.util.*;
 
-class Battlegame{
+class BattleGame{
 	public static void main(String args[]){
-		new Battlegame().execute();
+		new BattleGame().execute();
 	}
 	public void execute(){
 		init();
 	}
 	public void init(){
-		
+
 	}
 }
